@@ -1,0 +1,11 @@
+*.txt
+
+# Ignore del Back
+Back/node_modules
+Back/*.env
+Back/*.txt
+
+# Ignore del Front
+Front/node_modules
+Front/*.env
+Front/*.txt
